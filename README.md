@@ -14,3 +14,6 @@ Se descansar é adicionado 15 à stamina.
 Para decidir se ataca ou descansa o jogador gera um número random entre 0 e 80, depois verifica se esse valor é maior que a stamina, se for maior descansa, se for menor ataca.
 
 
+Este projeto permitiu o aprofundamento do meu conhecimento em classes, métodos e variáveis com c#.
+
+
